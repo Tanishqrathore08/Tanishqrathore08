@@ -105,7 +105,7 @@ Aug 2023 – Jun 2026
 
 ## 📫 Connect with me
 📧 Email: tanishqrathore38@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/tanishq-rathore  
+💼 LinkedIn: https://www.linkedin.com/in/tanishq-rathore-891a8428b/
 💻 GitHub: https://github.com/Tanishqrathore08  
 
 ---
