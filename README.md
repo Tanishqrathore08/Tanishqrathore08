@@ -99,7 +99,7 @@ Aug 2023 – Jun 2026
 ## 📜 Certifications
 - AWS Certified Cloud Practitioner (CLF-C02) – Udemy
 - Introduction to Generative AI – Google
-- Python Certificate – Kaggle
+- Python Certificate – HackerRank
 
 ---
 
