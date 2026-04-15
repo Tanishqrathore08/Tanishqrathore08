@@ -78,7 +78,7 @@ AWS EC2, Linux, Apache, GitHub
 
 ---
 
-### 🧊 SEZZZE – 3D Interactive Web Project
+###  SEZZZE – 3D Interactive Web Project
 - Developed interactive 3D website using Three.js, HTML, CSS, JavaScript.
 - Implemented animations and scroll effects using GSAP.
 - Integrated 3D sneaker model responsive to mouse movement.
@@ -107,6 +107,7 @@ Aug 2023 – Jun 2026
 📧 Email: tanishqrathore38@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/tanishq-rathore-891a8428b/
 💻 GitHub: https://github.com/Tanishqrathore08  
+    
 
 ---
 
