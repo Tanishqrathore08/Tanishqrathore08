@@ -43,7 +43,7 @@ Detail-oriented BCA student with hands-on experience in AWS cloud services and m
 ## 💼 Experience
 
 ### AWS Cloud Intern
-📅 Feb 2026 – June 2026  
+📅 Feb 2026 – July 2026  
 🏢 Internship Studio Pvt. Ltd. (Remote)
 
 - Worked with AWS services like EC2, S3, IAM, VPC and RDS to understand core cloud infrastructure.
