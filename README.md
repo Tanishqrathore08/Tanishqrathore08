@@ -3,9 +3,7 @@
 🎓 BCA Student | ☁️ Cloud Learner   
 📍 India  
 
----
-
-## 🚀 Professional Summary
+##  Professional Summary
 Detail-oriented BCA student with hands-on experience in AWS cloud services and modern web development. Skilled in building interactive websites and deploying applications on AWS, with strong interest in practical real-world projects. 
 
 ---
@@ -24,7 +22,6 @@ Detail-oriented BCA student with hands-on experience in AWS cloud services and m
 - Linux
 - Git & GitHub
 - VS Code
-- MS Excel
 
 ### Core Skills
 - Technical Communication
