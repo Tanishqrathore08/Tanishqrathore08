@@ -106,6 +106,8 @@ Aug 2023 – Jun 2026
 💼 LinkedIn: https://www.linkedin.com/in/tanishq-rathore-891a8428b/
 
 💻 GitHub: https://github.com/Tanishqrathore08  
+
+🌐 Phone Number: +91 97724 31034
     
 
 ---
